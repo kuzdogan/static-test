@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkethberlin=self.webpackChunkethberlin||[]).push([[287],{2514:function(e,t,l){l.r(t);var n=l(5434),a=l(7294);t.default=function(){return a.createElement(n.Z,null,a.createElement("h1",{className:"my-4 underline text-berlin-yellow"},"(h)ack"),a.createElement("div",{className:"text-gray-50 text-justify"}))}}}]);
-//# sourceMappingURL=component---src-pages-hack-jsx-d05c736a500a8f09769e.js.map
