@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkethberlin=self.webpackChunkethberlin||[]).push([[632],{2086:function(e,t,n){n.r(t);var r=n(5434),a=n(7294);t.default=function(){return a.createElement(r.Z,null,a.createElement("h1",{className:"my-4 underline text-secondary"},"(p)rogram"),a.createElement("div",{className:"text-gray-50 text-justify decorate-links"},"TBD"))}}}]);
-//# sourceMappingURL=component---src-pages-program-jsx-11d493afc90347da3079.js.map
