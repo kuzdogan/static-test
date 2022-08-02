@@ -175,7 +175,6 @@ const Home = () => {
             ETHBerlin³ is a hackathon, a cultural festival, an educational
             event, a platform for hacktivism, and a community initiative to push
             the decentralized ecosystem forward.
-            We invite you to hack the system, now, more than ever.
           </p>
           <p className="mt-4 text-center">
             Press <a href="/about">(a)</a> to get started.
